@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+A new Flutter project.This app is for both looking to the nwes and spending time on the phone by plaing some old traditional fun games like tictacto and snake.This is the demo version.Have fun :)
 
 ## Getting Started
 
