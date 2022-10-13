@@ -6,6 +6,15 @@ A new Flutter project.This app is for both looking to the nwes and spending time
 Dark Mode:
 
 
+
+https://user-images.githubusercontent.com/92253593/195595218-cefa3ca5-d4a5-4b42-a6af-4d67df647966.mp4
+
+
+
+
+https://user-images.githubusercontent.com/92253593/195595239-afe03b87-697b-4184-b914-7339ef38feac.mp4
+
+
 Light Mode:
 
 
