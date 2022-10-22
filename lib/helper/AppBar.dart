@@ -6,7 +6,7 @@ Widget MyAppBar() {
       mainAxisAlignment: MainAxisAlignment.center,
       children: <Widget>[
         Text(
-          "Dayı",
+          "Mystery",
           style: TextStyle(
               color: Colors.black,
               fontWeight: FontWeight.w600,
