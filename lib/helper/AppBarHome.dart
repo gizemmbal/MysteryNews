@@ -16,7 +16,7 @@ Widget MyAppBarHome() {
           // )
         ),
         Text(
-          "Dayı",
+          "Mystery",
           style: TextStyle(
               color: Colors.black87,
               fontWeight: FontWeight.w600,
